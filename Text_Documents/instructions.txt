@@ -1,0 +1,1 @@
+This folder is where all our text files will be stored.
